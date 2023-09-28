@@ -1,0 +1,8 @@
+C:\slavena slavova 11a\BANKacc\ZadachabankAcc\bin\Debug\ZadachabankAcc.exe.config
+C:\slavena slavova 11a\BANKacc\ZadachabankAcc\bin\Debug\ZadachabankAcc.exe
+C:\slavena slavova 11a\BANKacc\ZadachabankAcc\bin\Debug\ZadachabankAcc.pdb
+C:\slavena slavova 11a\BANKacc\ZadachabankAcc\obj\Debug\ZadachabankAcc.csproj.AssemblyReference.cache
+C:\slavena slavova 11a\BANKacc\ZadachabankAcc\obj\Debug\ZadachabankAcc.csproj.SuggestedBindingRedirects.cache
+C:\slavena slavova 11a\BANKacc\ZadachabankAcc\obj\Debug\ZadachabankAcc.csproj.CoreCompileInputs.cache
+C:\slavena slavova 11a\BANKacc\ZadachabankAcc\obj\Debug\ZadachabankAcc.exe
+C:\slavena slavova 11a\BANKacc\ZadachabankAcc\obj\Debug\ZadachabankAcc.pdb
